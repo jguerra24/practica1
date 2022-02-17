@@ -1,1 +1,2 @@
 Este es el primer archivo del ejercicio de Git.
+Se realizó una modificación al documento 1.
